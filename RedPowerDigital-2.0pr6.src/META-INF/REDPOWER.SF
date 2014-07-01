@@ -1,0 +1,211 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest-Main-Attributes: KfDDGzyq8GhFSrHiIayVEW5TMB4=
+Created-By: 1.6.0_35 (Sun Microsystems Inc.)
+SHA1-Digest-Manifest: ijhjh2OPbHSWovFWkQ3ZRIxjUww=
+
+Name: com/eloraam/redpower/logic/TileLogicSimple.class
+SHA1-Digest: yA4CcmhwN+56IsjWbfU02lHxOk0=
+
+Name: eloraam/wiring/redpower1.png
+SHA1-Digest: dedO5UoFayDPaFML5gsY2ZUajVo=
+
+Name: com/eloraam/redpower/logic/LogicProxyClient.class
+SHA1-Digest: eTr3QAfg25mDf8XnqRZ/YgnJcGo=
+
+Name: com/eloraam/redpower/lighting/LightingProxyClient.class
+SHA1-Digest: 07YpYEVcOParnRmWQDMRPrkyvyk=
+
+Name: com/eloraam/redpower/logic/TileLogicStorage$LogicStorageCounter.
+ class
+SHA1-Digest: MZIRN3DXG1rFBTndJZo7ctlT0Fg=
+
+Name: com/eloraam/redpower/logic/RenderLogic$TorchPos.class
+SHA1-Digest: Cp3NHXabEV41gyP8Wf0TfeEwxsI=
+
+Name: com/eloraam/redpower/logic/TileLogicArray.class
+SHA1-Digest: tIAu1bm9N0HL9K6amH4U/Rga0SE=
+
+Name: com/eloraam/redpower/lighting/BlockShapedLamp.class
+SHA1-Digest: rOjWkzDisxS0XNy27OEpsHRW8zg=
+
+Name: com/eloraam/redpower/lighting/LightingProxyClient$1.class
+SHA1-Digest: x5xMzQrOLr0H2tWTu1m3FV+Hiu4=
+
+Name: eloraam/lighting/lighting1.png
+SHA1-Digest: vJW8RG9gAr7bBDkso5qLgugtMvk=
+
+Name: eloraam/logic/logic2.png
+SHA1-Digest: 20pdeI813H9Qy6B5VQveqj8uwHE=
+
+Name: com/eloraam/redpower/wiring/TileInsulatedWire.class
+SHA1-Digest: 0WyYy5q0YGfnEPyCpTy0oZLkG30=
+
+Name: com/eloraam/redpower/logic/RenderLogicPointer.class
+SHA1-Digest: r+2Ci08m7NyMxV/0zIm++ZPrAg8=
+
+Name: eloraam/logic/timersgui.png
+SHA1-Digest: fHIzyg3iKNX6Ivk8Z0DHaVwNKg0=
+
+Name: eloraam/logic/logic1.png
+SHA1-Digest: 2fV17yt7tuq+dzhXFZ+IqmULE9E=
+
+Name: com/eloraam/redpower/wiring/RenderWiring.class
+SHA1-Digest: dE7P0CgeDOFVDLUyaCKTb5pI5Oc=
+
+Name: eloraam/lighting/shlamp1.obj
+SHA1-Digest: O3Fph28q0v+5IIANuwkPZqV8S1I=
+
+Name: com/eloraam/redpower/logic/TileLogicAdv$LogicAdvModule.class
+SHA1-Digest: MqqfJQFzBtJmNsD6sO7jyQOHUzI=
+
+Name: com/eloraam/redpower/wiring/TileRedwire.class
+SHA1-Digest: s832SiCGLDfpdiX/CTCnA2whcPE=
+
+Name: com/eloraam/redpower/wiring/RenderRedwire.class
+SHA1-Digest: C4Qmv1x8x9oOcnIbqDziixliYX0=
+
+Name: com/eloraam/redpower/RedPowerWiring$1.class
+SHA1-Digest: nseBESlaQ+kqM1GyUzDxKEhGbC4=
+
+Name: com/eloraam/redpower/wiring/WiringProxyClient.class
+SHA1-Digest: eTLUbtDfdd4aphUwh4qIZFY/NJ8=
+
+Name: com/eloraam/redpower/logic/ContainerCounter.class
+SHA1-Digest: hMp73eXlN/9Ipelx/xLQ2R6jUiE=
+
+Name: com/eloraam/redpower/wiring/TileBluewire$1.class
+SHA1-Digest: pNPcG4VFs+9KZtdFsT/IXtOt6pw=
+
+Name: eloraam/logic/busxcvr.obj
+SHA1-Digest: +DEEh5ncr3eKzXd766E6nm/mr2c=
+
+Name: com/eloraam/redpower/logic/TilePointerRenderer.class
+SHA1-Digest: JTFhuv/IAVAk2OV3ilzQKu72Oj0=
+
+Name: eloraam/lighting/shlamp2.obj
+SHA1-Digest: CcrmVXsnH4rW02jvcZK+WvhmGic=
+
+Name: com/eloraam/redpower/logic/IPointerTile.class
+SHA1-Digest: +MHGXIalMdfb0gViAcAsh5pAkQ0=
+
+Name: com/eloraam/redpower/logic/RenderLogic.class
+SHA1-Digest: AjSpAhiBctaCe8FHCeSfBzkSb2k=
+
+Name: com/eloraam/redpower/logic/ContainerTimer.class
+SHA1-Digest: Xu20wav5OtEuma3ExSLVn3BqGQ4=
+
+Name: com/eloraam/redpower/logic/TileLogicAdv$LogicAdvXcvr.class
+SHA1-Digest: BtL7pOwL1OFgxjfDyB8k9U8Z3hU=
+
+Name: com/eloraam/redpower/lighting/RenderLamp.class
+SHA1-Digest: nP6OXGmRBGFUH2Fv/AR6B9ucVME=
+
+Name: com/eloraam/redpower/logic/TileLogic.class
+SHA1-Digest: syraJyAI95yO4G6UvZalBDBhlSI=
+
+Name: com/eloraam/redpower/wiring/TileCable.class
+SHA1-Digest: aJLefl5Os9BzAWcEhItdPsEKcyw=
+
+Name: com/eloraam/redpower/lighting/BlockLamp.class
+SHA1-Digest: UzKG3sGqyJdY1EpTvdAjkBLo/3Y=
+
+Name: com/eloraam/redpower/RedPowerLighting$1.class
+SHA1-Digest: O/4Fogk55Xm04wiLlHkpkhPSKTk=
+
+Name: com/eloraam/redpower/RedPowerLogic.class
+SHA1-Digest: Rb4Q6HUke+MKahmRJ2PEchUb8eQ=
+
+Name: eloraam/logic/array1.png
+SHA1-Digest: 5F1GcAw6OveiUhH6dveWBEvjUoY=
+
+Name: mcmod.info
+SHA1-Digest: EGYFcDoOpIYVGfo3Xm0P8i62ils=
+
+Name: com/eloraam/redpower/lighting/ItemLamp.class
+SHA1-Digest: t2yPKV6I6HhzWYN8rca7fWaPcsQ=
+
+Name: com/eloraam/redpower/logic/TileLogicStorage$LogicStorageModule.c
+ lass
+SHA1-Digest: Cm0KoGKoxeF/aYG9xC9qnum23Ug=
+
+Name: com/eloraam/redpower/logic/RenderLogicSimple.class
+SHA1-Digest: zHAkcTVQ9gdF/2Zwu7FUOXLxe6g=
+
+Name: eloraam/logic/sensor1.png
+SHA1-Digest: m129D4B6227CeYLT0z+7J5rV0zM=
+
+Name: com/eloraam/redpower/logic/TileLogicStorage.class
+SHA1-Digest: bRCtfagWgHHuXyuicWh5oNH5AqE=
+
+Name: com/eloraam/redpower/wiring/TileBluewire.class
+SHA1-Digest: ppHGIM6vtzQR/kSD6n+a8OaOR/s=
+
+Name: com/eloraam/redpower/logic/RenderLogicStorage.class
+SHA1-Digest: SQSXqLMm517ZFIk8HeW+lK0BsQ8=
+
+Name: eloraam/logic/arraycells.obj
+SHA1-Digest: ADUJHW35/AQAMZuFmh52JQWIC/M=
+
+Name: com/eloraam/redpower/lighting/RenderShapedLamp.class
+SHA1-Digest: a6ajfWxBKPQUnTwEHyFL0J2AMiA=
+
+Name: com/eloraam/redpower/wiring/MicroPlacementJacket.class
+SHA1-Digest: HQV0cP7fwI1t98w2bx3oYokqQfs=
+
+Name: com/eloraam/redpower/lighting/ItemShapedLamp.class
+SHA1-Digest: CvWF3VEW76nj7m13r0NBoyu0Da8=
+
+Name: com/eloraam/redpower/logic/ItemLogic.class
+SHA1-Digest: 8KFaWBZAKG/Rr9pe7VT/L6teJOc=
+
+Name: com/eloraam/redpower/wiring/MicroPlacementWire.class
+SHA1-Digest: 34vei1G+9l/MyOklpo2jod7/KBI=
+
+Name: com/eloraam/redpower/wiring/WiringProxy.class
+SHA1-Digest: mbBavyKPxvySnpAnAwad/OK7tUY=
+
+Name: com/eloraam/redpower/lighting/LightingProxy.class
+SHA1-Digest: pthI2OFHahAIVIPzJimU5qn50u4=
+
+Name: com/eloraam/redpower/logic/RenderLogicAdv.class
+SHA1-Digest: w8EMBcHzYkDmoanUdQgVUxodeB0=
+
+Name: com/eloraam/redpower/logic/GuiCounter.class
+SHA1-Digest: DYEzM0yEOl/ELXaVgseADuroCtA=
+
+Name: eloraam/logic/countergui.png
+SHA1-Digest: EQdOw02WRet95/v7PJ6u9JP4mik=
+
+Name: com/eloraam/redpower/lighting/TileShapedLamp.class
+SHA1-Digest: coMOT6jzH+dpCsfk5Gckap70+V0=
+
+Name: com/eloraam/redpower/logic/LogicProxy.class
+SHA1-Digest: WsYcKp9ra7SGXdEit0D+Q6K+vwQ=
+
+Name: com/eloraam/redpower/logic/BlockLogic.class
+SHA1-Digest: 1+5uqc50xl0uO+PF5uJmQDQfw5Q=
+
+Name: com/eloraam/redpower/logic/TileLogicPointer.class
+SHA1-Digest: xPe9/xJm/YINO3TbteEGpdOMTLM=
+
+Name: com/eloraam/redpower/logic/GuiTimer.class
+SHA1-Digest: NvVbODAVG0vvrDYfUIvH7y7VPvc=
+
+Name: com/eloraam/redpower/RedPowerWiring.class
+SHA1-Digest: riBIktpVjT1Wj4rFHb/K2dTCIyE=
+
+Name: com/eloraam/redpower/RedPowerLighting.class
+SHA1-Digest: +6eI+EDi46FC//laFzYnuNndEeA=
+
+Name: eloraam/logic/logic1_old.png
+SHA1-Digest: AGfXkQufqcihnRnSn22tli/kDIc=
+
+Name: com/eloraam/redpower/wiring/TileWiring.class
+SHA1-Digest: OUrNZc5h/61Gim9ST/TPHGY6/Bk=
+
+Name: com/eloraam/redpower/logic/RenderLogicArray.class
+SHA1-Digest: kuYyOihLVkq33//dk9t7n6aaE7A=
+
+Name: com/eloraam/redpower/logic/TileLogicAdv.class
+SHA1-Digest: bmo5V/gpOx+8p/hma+ox5mhDw9M=
+

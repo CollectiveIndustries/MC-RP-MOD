@@ -1,0 +1,266 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest-Main-Attributes: KfDDGzyq8GhFSrHiIayVEW5TMB4=
+Created-By: 1.6.0_35 (Sun Microsystems Inc.)
+SHA1-Digest-Manifest: ORLYmcbVEnXsC4c6rTua4YjqBco=
+
+Name: buildcraft/api/transport/IExtractionHandler.class
+SHA1-Digest: JoM3qJ90TlMNUJXaVNjmhU0JKhk=
+
+Name: buildcraft/api/blueprints/BptBlock.class
+SHA1-Digest: 6kK+DxGxSI+MPerfQFH6QKlIbgw=
+
+Name: buildcraft/api/bptblocks/BptBlockBed.class
+SHA1-Digest: r7E0FKcpkawKoc4CuBj8DM6gLX4=
+
+Name: buildcraft/api/gates/IActionReceptor.class
+SHA1-Digest: FFrQuYPneQgaZoYeSddwDp9CCFM=
+
+Name: buildcraft/api/power/IPowerProvider.class
+SHA1-Digest: m2R5erDQyH7Se1ykcIdvItPGWqM=
+
+Name: buildcraft/api/blueprints/ItemSignature.class
+SHA1-Digest: GgLJveBJuPZCKPdFrHQ2LaFcVHE=
+
+Name: com/eloraam/redpower/compat/TileMachineCompat.class
+SHA1-Digest: SKY6Z7s+5VMSkPgEMBlhbnv5DAU=
+
+Name: buildcraft/api/bptblocks/BptBlockRotateMeta.class
+SHA1-Digest: 9Hnei22FbYj5Wq3COeyDu0ivgrY=
+
+Name: buildcraft/api/transport/IPipe$1.class
+SHA1-Digest: jRFtnfT8B//bk5ia0PJaqWzUw+8=
+
+Name: buildcraft/api/fuels/IronEngineFuel.class
+SHA1-Digest: fiCao+GRT1Py2VxBmkqRjoa7RqM=
+
+Name: buildcraft/api/bptblocks/BptBlockPiston.class
+SHA1-Digest: vXehcTdDtKiUMjFN80MwRwpWrD4=
+
+Name: buildcraft/api/gates/ITriggerParameter.class
+SHA1-Digest: aT0LtVsfDBfOsFHSeNFu9RA4wFg=
+
+Name: buildcraft/api/core/IAreaProvider.class
+SHA1-Digest: lUQ0jX64iRMSc9/6vwispe72MBg=
+
+Name: buildcraft/api/filler/IFillerPattern.class
+SHA1-Digest: goepHaUeorPR3TvBK+P91dG6LzA=
+
+Name: com/eloraam/redpower/compat/CompatProxyClient.class
+SHA1-Digest: hhbobIhrZ4oN/a7PiobZtJJ/gd4=
+
+Name: com/eloraam/redpower/compat/RenderBlueEngine.class
+SHA1-Digest: dhjicFVSLYBmknGYHpLJqxyQyPU=
+
+Name: buildcraft/api/blueprints/IBptContext.class
+SHA1-Digest: tIyGBPjcHkb0BONoUuphHCDKZZ8=
+
+Name: buildcraft/api/bptblocks/BptBlockDoor.class
+SHA1-Digest: x9+hvWZteFXP2Pm0gk8drBGGEGA=
+
+Name: buildcraft/api/transport/IPipe$DrawingState.class
+SHA1-Digest: cN7c6GIUBuPS0tnCr8p0v3UBTp0=
+
+Name: buildcraft/api/gates/Trigger.class
+SHA1-Digest: gM8cwefFtlRpUJZOycwlFK8M4nY=
+
+Name: buildcraft/api/transport/IPassiveItemContribution.class
+SHA1-Digest: DU26i+OihoOT39AcEGBQ7VDv6m4=
+
+Name: buildcraft/api/transport/IPipeTile.class
+SHA1-Digest: Yv2Iq6R5cXJiO9PihY+offPPa6U=
+
+Name: buildcraft/api/filler/FillerManager.class
+SHA1-Digest: UTmT8dKrUz8s/VXzDJjbwXDnc5A=
+
+Name: buildcraft/api/core/LaserKind.class
+SHA1-Digest: KRKB5BPR/H6fb+6XEdaUOeyOgvA=
+
+Name: buildcraft/api/inventory/ISpecialInventory.class
+SHA1-Digest: 0lNLSGucZApi430AA/Wj+B4JesE=
+
+Name: buildcraft/api/bptblocks/BptBlockInventory.class
+SHA1-Digest: 8wLXMSlh19TTZEAI0dxkGVIr8k8=
+
+Name: buildcraft/api/core/Position$1.class
+SHA1-Digest: NaHJqw62YXS30cnmGhQfDdB78Eo=
+
+Name: buildcraft/api/core/IBox.class
+SHA1-Digest: oEfEEZP6aCZAqni/7KEV8cUShjc=
+
+Name: buildcraft/api/tools/IToolWrench.class
+SHA1-Digest: a+lX31f32pWyg0vmd7YoRzwTeOk=
+
+Name: com/eloraam/redpower/compat/ItemMachineCompat.class
+SHA1-Digest: oibL19uGmp1FF6LBG9wRU55xUNQ=
+
+Name: buildcraft/api/bptblocks/BptBlockSign.class
+SHA1-Digest: +IMH4X6V4R5kKAnTx5huttHoNBw=
+
+Name: buildcraft/api/inventory/ISelectiveInventory.class
+SHA1-Digest: xUzFEuJxMJ/kdVnc34VWdcHakdI=
+
+Name: buildcraft/api/transport/IPipe.class
+SHA1-Digest: Qx1I9H24qne17WRRe1BiIjcZ+os=
+
+Name: buildcraft/api/filler/IFillerRegistry.class
+SHA1-Digest: UsyKMPlRwQNkKiIuKMs3feXz7iQ=
+
+Name: buildcraft/api/gates/ITriggerProvider.class
+SHA1-Digest: 7w+feNZOzkFNsUN4vDmbFdWrQDk=
+
+Name: buildcraft/api/gates/ActionManager.class
+SHA1-Digest: UXgr/fu1fTigQ9rdBuxUmTBkROo=
+
+Name: buildcraft/api/bptblocks/BptBlockRedstoneRepeater.class
+SHA1-Digest: ZTcdZOIEkZkcGgXIV9j7TzJ3Qbc=
+
+Name: buildcraft/api/core/SafeTimeTracker.class
+SHA1-Digest: QYeUsh33pZeuF7S7WyYObMw29Ig=
+
+Name: buildcraft/api/power/PowerProvider.class
+SHA1-Digest: vGwFkHxUOVejFvDek8pDAHwSmVU=
+
+Name: buildcraft/api/tools/IToolPipette.class
+SHA1-Digest: xpXuxFNakLjcUevhKUJlIBVPIUM=
+
+Name: buildcraft/api/gates/TriggerParameter.class
+SHA1-Digest: LmcnIJuOXogP2Z6d8Ht8nFduXlA=
+
+Name: buildcraft/api/transport/IPipedItem.class
+SHA1-Digest: 96Ufh0vxzJyzy2m72zAunI4oY68=
+
+Name: eloraam/compat/btengine2.obj
+SHA1-Digest: RH7VwKr9tglkb2se7aP6rcFmqME=
+
+Name: buildcraft/api/bptblocks/BptBlockLever.class
+SHA1-Digest: +AYXbbcxHgwVocP3tq8mD4lObb0=
+
+Name: buildcraft/api/core/Position.class
+SHA1-Digest: bHDp7/9URiOgYZKIYBNw8qnJ2pQ=
+
+Name: com/eloraam/redpower/compat/BlockMachineCompat.class
+SHA1-Digest: upVsK+NNhQkknqjcMIrjynv7Sjs=
+
+Name: buildcraft/api/gates/IAction.class
+SHA1-Digest: gfkEDds0R9b+TMOPLcbimxASXkE=
+
+Name: buildcraft/api/transport/IPipe$WireColor.class
+SHA1-Digest: qUuevWNEk7o7fAggIMVyUE1ATGg=
+
+Name: buildcraft/api/fuels/IronEngineCoolant.class
+SHA1-Digest: 8vagX2UD4+BMycQe3rPNiOaSgG8=
+
+Name: buildcraft/api/inventory/ISecuredInventory.class
+SHA1-Digest: 6CXoS1cil9hqrARLWZIJ+DvK1CA=
+
+Name: buildcraft/api/power/PowerFramework.class
+SHA1-Digest: BIYI+GBvhIe7aqC6BeqG48DwFWU=
+
+Name: eloraam/compat/btengine3.obj
+SHA1-Digest: +3tt4VWmI1K7xJs+mOEpC3h/y3o=
+
+Name: buildcraft/api/transport/IPipeConnection.class
+SHA1-Digest: 2SPdJWxzmgr1euUGfCesSlrZN6w=
+
+Name: mcmod.info
+SHA1-Digest: EGYFcDoOpIYVGfo3Xm0P8i62ils=
+
+Name: buildcraft/api/blueprints/BptSlotInfo.class
+SHA1-Digest: pIZvtxcEUEeevmKLDmTBGr2+wRI=
+
+Name: buildcraft/api/blueprints/BptBlockUtils.class
+SHA1-Digest: AW+68bxhS1JvyhnHRyYVnwSaD9g=
+
+Name: buildcraft/api/bptblocks/BptBlockPumpkin.class
+SHA1-Digest: nFlFZhpcBCKAXEmya3puCQJazOE=
+
+Name: buildcraft/api/gates/IActionProvider.class
+SHA1-Digest: 7mynF4g75J29v2A9kmsqAklfPMI=
+
+Name: buildcraft/api/power/IPowerReceptor.class
+SHA1-Digest: lQy3O13h6LeH4N15qW5PUv7fbNs=
+
+Name: buildcraft/api/transport/PipeManager.class
+SHA1-Digest: EChu4IgZjTbosHOTZr9nDn4B5P4=
+
+Name: eloraam/compat/btengine1.obj
+SHA1-Digest: HMkedR+jxT3A0ar22sSKMURpsvc=
+
+Name: buildcraft/api/bptblocks/BptBlockLiquid.class
+SHA1-Digest: NeKoc0elqSK7U7DRoXtQUczN7jo=
+
+Name: buildcraft/api/gates/Action.class
+SHA1-Digest: m2W78Kgi43SX7h8jgEGnNWGicbY=
+
+Name: com/eloraam/redpower/compat/CompatProxy.class
+SHA1-Digest: XMLT7ksbqrmsAkW+2OX+yKUgnTA=
+
+Name: buildcraft/api/bptblocks/BptBlockDelegate.class
+SHA1-Digest: oeX1wMEqYSNB/JcmU2PUlY9P3y4=
+
+Name: buildcraft/api/bptblocks/BptBlockStairs.class
+SHA1-Digest: VXwIJmzdIi7iHygVy8JkSql909I=
+
+Name: buildcraft/api/bptblocks/BptBlockCustomStack.class
+SHA1-Digest: j01EpZT3HvWcWLydBSvm3dF+g8o=
+
+Name: buildcraft/api/gates/IOverrideDefaultTriggers.class
+SHA1-Digest: O5dCo4QTh2hZTOQnfuC6mjSoW+w=
+
+Name: buildcraft/api/transport/IPipeEntry.class
+SHA1-Digest: 0C8zvb6fIoNwIkkm8l0AOXqZD+E=
+
+Name: com/eloraam/redpower/compat/TileBlueEngine$1.class
+SHA1-Digest: OdSSC4ro8V1q/5m81YY+gePxWSw=
+
+Name: com/eloraam/redpower/compat/TileBlueEngineRenderer.class
+SHA1-Digest: MI0bMZlRDtfWcEcPo3G7Xm7TYGM=
+
+Name: buildcraft/api/bptblocks/BptBlockWallSide.class
+SHA1-Digest: aHa0SNlzbmC+QeSMyMa+RA8YlUA=
+
+Name: buildcraft/api/blueprints/BlockSignature.class
+SHA1-Digest: QUomQxcq9zsNfYMTakRy454GDWQ=
+
+Name: buildcraft/api/bptblocks/BptBlockRotateInventory.class
+SHA1-Digest: jOnCXT35GRADiNNSOMD7FsIYNMU=
+
+Name: buildcraft/api/bptblocks/BptBlockIgnore.class
+SHA1-Digest: L0HpmtgcQmMGKuFHhC7XFZnUhMo=
+
+Name: buildcraft/api/gates/ITrigger.class
+SHA1-Digest: ZDQfDagSefdTR8pUEZfpt8m/Gqg=
+
+Name: buildcraft/api/transport/FacadeManager.class
+SHA1-Digest: WQ461/c2PVR5+bBnC82bXfsv36U=
+
+Name: com/eloraam/redpower/RedPowerCompat.class
+SHA1-Digest: r3MjCZBThwylSgkiS1b0fDzicxk=
+
+Name: com/eloraam/redpower/compat/TileBlueEngine.class
+SHA1-Digest: pecz4mhHdMYJfWH/b+GBYY8vhQM=
+
+Name: buildcraft/api/recipes/RefineryRecipe.class
+SHA1-Digest: XNuGFc4wKrF7gThuZ7Cy+g18qFo=
+
+Name: buildcraft/api/core/BuildCraftAPI.class
+SHA1-Digest: CWiS6U+bgjUThkvKQAecsoazJas=
+
+Name: eloraam/compat/compat1.png
+SHA1-Digest: 9GSJUEeX24tGu8Hh1auZi0y5spE=
+
+Name: buildcraft/api/bptblocks/BptBlockDirt.class
+SHA1-Digest: cawDQJ4C27H0P7S5k+iuxpTS40U=
+
+Name: buildcraft/api/blueprints/BlueprintManager.class
+SHA1-Digest: gDabqBgXanPWTchgJrmCCGxmbIE=
+
+Name: buildcraft/api/gates/ITriggerDirectional.class
+SHA1-Digest: ukzCDxl/Uk78BehSx8Oasm+n0c0=
+
+Name: buildcraft/api/recipes/AssemblyRecipe.class
+SHA1-Digest: jr1hwBBnCsgLCVy6vngQAPUFG6Y=
+
+Name: buildcraft/api/bptblocks/BptBlockIgnoreMeta.class
+SHA1-Digest: 26U6AAadm//HJJ2eXQTitgpYCc4=
+

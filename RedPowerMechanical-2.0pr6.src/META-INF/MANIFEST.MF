@@ -1,0 +1,719 @@
+Manifest-Version: 1.0
+Created-By: 1.6.0_35 (Sun Microsystems Inc.)
+
+Name: com/eloraam/redpower/world/ItemCustomStone.class
+SHA1-Digest: edka4KzdI1eFWNQor924YL48g98=
+
+Name: com/eloraam/redpower/control/ContainerCPU.class
+SHA1-Digest: tCRl4/Z3V7q84Ux2/BlGfZTirFU=
+
+Name: com/eloraam/redpower/world/ItemSeedBag$SpiralSearch.class
+SHA1-Digest: fvZgDFfxX+UsOgMpqxOTCmgNQ8E=
+
+Name: com/eloraam/redpower/machine/ContainerRetriever.class
+SHA1-Digest: cTU/CZeV5IULl5/bcMvXNGe6sbw=
+
+Name: com/eloraam/redpower/control/ItemDisk.class
+SHA1-Digest: hHb6KCdISm6doxhMHRkoDZ+x0eI=
+
+Name: com/eloraam/redpower/machine/ContainerChargingBench.class
+SHA1-Digest: HytDJurFTKjpkopDAyGrYYDc8ik=
+
+Name: com/eloraam/redpower/machine/ItemRenderMachine$1.class
+SHA1-Digest: 541DSrirx0Dk6wgKJ9JANxhD0ng=
+
+Name: com/eloraam/redpower/machine/RenderAccel.class
+SHA1-Digest: C8SsuGvT1xJK9fCXzsHEASXv8eg=
+
+Name: com/eloraam/redpower/control/TileDisplay.class
+SHA1-Digest: DOO1KLrlzollLEfL27loOBXhLE4=
+
+Name: com/eloraam/redpower/world/ItemSickle.class
+SHA1-Digest: xTv8D+PNtKtaBCOvvA/x8IeF4hk=
+
+Name: com/eloraam/redpower/machine/RenderWindTurbine.class
+SHA1-Digest: VsMleC2JrMa/xfjXPiaqaYmOf3o=
+
+Name: com/eloraam/redpower/machine/TileAssemble.class
+SHA1-Digest: r6bS6BkBtYVvv9AmYliCk7sagC0=
+
+Name: com/eloraam/redpower/machine/TileBatteryBox$1.class
+SHA1-Digest: C9rOgjzncMcM3ZCmUOvdfFJfKFU=
+
+Name: eloraam/control/displaygui.png
+SHA1-Digest: wLX5/g6c1R7iGdX46n8K9ucxhEk=
+
+Name: com/eloraam/redpower/machine/GuiBlueFurnace.class
+SHA1-Digest: sCD3en+I++TRxo+QTxh0cId+01c=
+
+Name: eloraam/machine/itemdet.png
+SHA1-Digest: X1EvphtjKsCY10iGuuwHkVh4+U8=
+
+Name: com/eloraam/redpower/world/ContainerSeedBag$SlotSeeds.class
+SHA1-Digest: fHBIut3cL7xQodmXJKVWqcDn9lU=
+
+Name: com/eloraam/redpower/world/ContainerSeedBag.class
+SHA1-Digest: onrmKdOf6QoQXdpaxDn8Ndn1zvE=
+
+Name: com/eloraam/redpower/machine/BlockMachine.class
+SHA1-Digest: UncncPcxk5meHHvY8N25gIFdpVs=
+
+Name: com/eloraam/redpower/machine/GuiDeploy.class
+SHA1-Digest: gdKevjWoQmqExNKxxbCK1kBTWUg=
+
+Name: com/eloraam/redpower/machine/RenderChargingBench.class
+SHA1-Digest: rSNBFpgcWKeM56SJyXGMBx3sggo=
+
+Name: com/eloraam/redpower/world/BlockCustomOre.class
+SHA1-Digest: 8o6np2n6UOCB2YH0SFN2rvAM/ms=
+
+Name: com/eloraam/redpower/machine/TilePump.class
+SHA1-Digest: NTbq6q2WmeYHkKJ7Fybqfv49+Z4=
+
+Name: com/eloraam/redpower/machine/RenderThermopile.class
+SHA1-Digest: g0UOziVfTYLP3dkzP7AW5JBhkCU=
+
+Name: com/eloraam/redpower/machine/TileFrame.class
+SHA1-Digest: tF7BbuadhfELB7xn0sZYIc2qm4U=
+
+Name: eloraam/machine/machine2.png
+SHA1-Digest: UN6hYhDkegKeb3nbrhFTt/oCrEk=
+
+Name: com/eloraam/redpower/world/ItemAthame.class
+SHA1-Digest: T3FoRVkQOuj+f5/oQ9GmIVF+1oA=
+
+Name: com/eloraam/redpower/machine/TileTransformer$1.class
+SHA1-Digest: 93xfW9JfZDH8QFL7M74PYvH0RTE=
+
+Name: com/eloraam/redpower/world/WorldGenMarble.class
+SHA1-Digest: zICB0O9+Z3ke1/rjL0fenEn2hUg=
+
+Name: com/eloraam/redpower/machine/ItemBattery.class
+SHA1-Digest: v/IfOEd0Vs+8I/6qdSpqMF1dyIE=
+
+Name: com/eloraam/redpower/machine/TileMagTube.class
+SHA1-Digest: p5adOGDw7LcxEKpEy3LjdZJN+Dk=
+
+Name: com/eloraam/redpower/machine/TileSortron$1.class
+SHA1-Digest: CIwZThgSsXPzaj9vIQFMsjZIC4E=
+
+Name: com/eloraam/redpower/machine/BlockMachinePanel.class
+SHA1-Digest: 7uk4c6WddePlAnUEuCOWBXU7vZg=
+
+Name: com/eloraam/redpower/machine/TileThermopile$1.class
+SHA1-Digest: tI8XL5StuIWY2fEwRciuoq4piC8=
+
+Name: com/eloraam/redpower/machine/RenderPipe.class
+SHA1-Digest: ZDqZ500n+2ckTPGmpaW8obF9SBY=
+
+Name: mcmod.info
+SHA1-Digest: KldrHBqzMPjCVJ1CzUfJM35DSAw=
+
+Name: com/eloraam/redpower/machine/TileRestrictTube.class
+SHA1-Digest: rNSlYoZiFX3KFhEm0TjFH25gAYM=
+
+Name: com/eloraam/redpower/world/WorldGenHandler.class
+SHA1-Digest: BmSKjLEeYCYsysCuWIu2V/mNiqg=
+
+Name: com/eloraam/redpower/machine/TileMotor$1.class
+SHA1-Digest: IDL+MDWqCRbu4s361nZxap2y4jw=
+
+Name: com/eloraam/redpower/machine/TileIgniter.class
+SHA1-Digest: ZP20UVjb9Lv5oJvS+sdAB0EfS5c=
+
+Name: eloraam/world/worlditems1.png
+SHA1-Digest: 4cYGHhpC16vIHm4h3FKHyMZrU+c=
+
+Name: com/eloraam/redpower/machine/MachineProxyClient.class
+SHA1-Digest: mM2LAvmNvsfvVM1cp/jPPFzx1SA=
+
+Name: com/eloraam/redpower/world/ItemCustomFlower.class
+SHA1-Digest: GdH2vW+53dGjWikSblyNwfG3Rq8=
+
+Name: com/eloraam/redpower/world/BlockCustomLog.class
+SHA1-Digest: LroKvzs5m9ij0AFavNdcA5ucdoQ=
+
+Name: com/eloraam/redpower/control/RenderIOExpander.class
+SHA1-Digest: tMbA3E3B1J0+k1LHep2AZKgRJgQ=
+
+Name: com/eloraam/redpower/control/ControlProxy.class
+SHA1-Digest: SPQHu+JoRVkEr1c9ghi3IHChDdM=
+
+Name: com/eloraam/redpower/machine/TileChargingBench$1.class
+SHA1-Digest: GDYLExYaLfpsRTUMBaSPCeVNN5U=
+
+Name: eloraam/machine/vawt.png
+SHA1-Digest: xLDV0XURywuQW04aqsK9OVk6r3E=
+
+Name: com/eloraam/redpower/machine/TileBlueAlloyFurnace.class
+SHA1-Digest: MpRWlkNSHhzK+QGT0VSd06U03PI=
+
+Name: com/eloraam/redpower/world/BlockCustomCrops.class
+SHA1-Digest: /cQNhXTw/S0l+friSikrDeq1eoA=
+
+Name: com/eloraam/redpower/machine/ContainerSorter.class
+SHA1-Digest: MlqJxdmy4r/4TJYuv3qTWrPG3O4=
+
+Name: com/eloraam/redpower/machine/ContainerItemDetect.class
+SHA1-Digest: 7EWxe8EZ51mtmNLadioKFXKJ4D0=
+
+Name: com/eloraam/redpower/machine/ContainerManager.class
+SHA1-Digest: rm+74c3V0vtXwQiBNGHhYrtdLZ8=
+
+Name: eloraam/machine/machine1.png
+SHA1-Digest: ssSbBQbCYNE0igr2t8E1wctWOmM=
+
+Name: com/eloraam/redpower/world/ItemSeedBag$InventorySeedBag.class
+SHA1-Digest: MaDyPyjomb6rL/zKDSz/czzmBo4=
+
+Name: com/eloraam/redpower/machine/RenderBreaker.class
+SHA1-Digest: hsp0yAr6qN8l1PNQ13TXNhaRLIY=
+
+Name: com/eloraam/redpower/machine/TileItemDetect.class
+SHA1-Digest: T2MNbBcXlSvHc2OxN1oUeIOQwdU=
+
+Name: com/eloraam/redpower/machine/TileFrameTube.class
+SHA1-Digest: wcGmwzkQ3QYCRGBFS+ITfoly6jY=
+
+Name: com/eloraam/redpower/world/WorldGenRubberTree.class
+SHA1-Digest: gzQsYQdL+qunDhTjr/f4oZCZ4nw=
+
+Name: com/eloraam/redpower/machine/ItemVoltmeter.class
+SHA1-Digest: qhQn4isWBmdnYkCdy9rhkWiQZEc=
+
+Name: com/eloraam/redpower/machine/TileDeployBase.class
+SHA1-Digest: B7kOC8mZOT0LvDpMB6iy5D09/1s=
+
+Name: eloraam/machine/batbox.png
+SHA1-Digest: DPw+FKlYAt5XYlY5DQzv+qkvDy4=
+
+Name: com/eloraam/redpower/machine/GuiManager.class
+SHA1-Digest: 6pS1RL4jfNglrB09r4V3mOa/X/w=
+
+Name: com/eloraam/redpower/machine/RenderFrameRedstoneTube.class
+SHA1-Digest: bfyXq4yTNWooy2wZ0ict3COLUsI=
+
+Name: com/eloraam/redpower/control/RenderBackplane.class
+SHA1-Digest: feFMJEDLL9qOKIsI4eBxFqke9uc=
+
+Name: com/eloraam/redpower/machine/TileFrameRedstoneTube.class
+SHA1-Digest: 6uqHqu0Qs5rdTEQSzOKu0HGeI4c=
+
+Name: com/eloraam/redpower/RedPowerMachine.class
+SHA1-Digest: eiekQkRzF5wpN4XzPNw6h+v53Ac=
+
+Name: com/eloraam/redpower/machine/ContainerAssemble.class
+SHA1-Digest: JaOo3N0X+VFc3GRHYdsLJ/b6nHY=
+
+Name: com/eloraam/redpower/machine/ContainerWindTurbine.class
+SHA1-Digest: UVD0zXc1YcjJFGEK7APRju3ngg4=
+
+Name: com/eloraam/redpower/machine/TileBufferChest.class
+SHA1-Digest: gyiAH4WDBWFyzIwPZLDTWJo/QjI=
+
+Name: com/eloraam/redpower/world/ItemCustomSword.class
+SHA1-Digest: fGZB1rnXhB427jL28nYzGUSFcq8=
+
+Name: com/eloraam/redpower/machine/TileGrate$SimpleComparator.class
+SHA1-Digest: /bGIWmUGzrbjy6TMxRvzJ0rF9OQ=
+
+Name: com/eloraam/redpower/machine/TileChargingBench.class
+SHA1-Digest: s4ypWZsT3azSc8NQylHm5W9/Pd0=
+
+Name: eloraam/machine/pump1.obj
+SHA1-Digest: 151VL/BwZ8oAB0DL6cZTr7Jjylg=
+
+Name: com/eloraam/redpower/world/ItemCustomAxe.class
+SHA1-Digest: 6g3v7z9oW3+daUkFRvu7uHvGFWo=
+
+Name: com/eloraam/redpower/machine/TileBatteryBox.class
+SHA1-Digest: YuAWBs1u4oLJPbs34DrpmVH17UM=
+
+Name: com/eloraam/redpower/machine/ContainerBlueFurnace.class
+SHA1-Digest: uZDiwykI/W+fJt84wi6VbZJ3bCs=
+
+Name: com/eloraam/redpower/world/EnchantmentDisjunction.class
+SHA1-Digest: iDqblcsvdgRpqRWpG/6XoYx9AW0=
+
+Name: com/eloraam/redpower/machine/TileFrameMoving$FrameBlockAccess.cl
+ ass
+SHA1-Digest: UZ3Luxu4898OjPwTd3iX7CPHF0c=
+
+Name: com/eloraam/redpower/machine/ItemWindmill.class
+SHA1-Digest: pW0d/+UGI4drLrxLFPwlpqSAywY=
+
+Name: com/eloraam/redpower/machine/GuiRegulator.class
+SHA1-Digest: TPryPq2A1UHEWNrT6PsX/KfYwk4=
+
+Name: com/eloraam/redpower/machine/GuiSorter.class
+SHA1-Digest: dxTrBVtoJdq03ccKfBUsDzCpbDU=
+
+Name: eloraam/machine/btafurnace.png
+SHA1-Digest: SIl75Ka8bEdi1FURiQBlL72vjdA=
+
+Name: com/eloraam/redpower/world/BlockCustomLeaves.class
+SHA1-Digest: d+GF+LsYk72BvGcUGRib9U2XXJ8=
+
+Name: com/eloraam/redpower/machine/TileMachine.class
+SHA1-Digest: +AzYjmi27Jt9lPO2S1lbGlxCo7s=
+
+Name: com/eloraam/redpower/machine/MicroPlacementTube.class
+SHA1-Digest: HGHZFKbEiR2FsFEun3+eKMiP8io=
+
+Name: com/eloraam/redpower/machine/TileGrate$1.class
+SHA1-Digest: gXeoXjbzHMdXXaAiCIPXlbRtk0Q=
+
+Name: com/eloraam/redpower/machine/GuiRetriever.class
+SHA1-Digest: /gv+qVvgwgRXrTKIJgjsQQUBtjw=
+
+Name: com/eloraam/redpower/world/WorldEvents.class
+SHA1-Digest: dv4qKS378g8cC04LS38WlXfz808=
+
+Name: com/eloraam/redpower/world/ItemCustomOre.class
+SHA1-Digest: Cgf1OA8BcX75jgnEqaEL5cq1m64=
+
+Name: com/eloraam/redpower/machine/TileMotor.class
+SHA1-Digest: NQxg1qV5J0sKvTZbddinIEgL7f4=
+
+Name: com/eloraam/redpower/machine/TileSolarPanel.class
+SHA1-Digest: wp53zimFxtV3dR4fYjbIimN4GnA=
+
+Name: com/eloraam/redpower/world/ItemStorage.class
+SHA1-Digest: WZ2SBo4CMGKLZb2lsDBx9ypqn3I=
+
+Name: eloraam/machine/retriever.png
+SHA1-Digest: 2VVCiMNsAI+b43DVSL85gnMdueU=
+
+Name: com/eloraam/redpower/machine/ItemSonicDriver.class
+SHA1-Digest: CPqPWR2mdorGPCN/BkPbCXo9W0Q=
+
+Name: com/eloraam/redpower/machine/TilePipeRenderer.class
+SHA1-Digest: J/RcytWfnZfrYJkBzUdRs0O/D/Q=
+
+Name: eloraam/machine/accel.obj
+SHA1-Digest: Pa5Zoixol9rYYFfBtrbW/C3BULQ=
+
+Name: com/eloraam/redpower/control/TileBackplane.class
+SHA1-Digest: e7XapMySrRf3mmdeDYN5XcDRitw=
+
+Name: com/eloraam/redpower/machine/GuiItemDetect.class
+SHA1-Digest: zVBucp9h1Vj67841nJz98y9yo+Q=
+
+Name: com/eloraam/redpower/machine/RenderFrame.class
+SHA1-Digest: /1SoBfAyelkm1eICX7etvsRdoyU=
+
+Name: eloraam/machine/sortmachine.png
+SHA1-Digest: fwZjtmzR0X7yojZ0rdovAZ8x7P0=
+
+Name: eloraam/machine/filter.png
+SHA1-Digest: BfPaUNh7tw7W1hUbXPeo0MBemL4=
+
+Name: eloraam/machine/filter9.png
+SHA1-Digest: lsdtru8MEwl6FMquYRr6JrtBNwo=
+
+Name: com/eloraam/redpower/machine/TileThermopile.class
+SHA1-Digest: vZros9GjiCuRxbup0cVyrTmU3zY=
+
+Name: com/eloraam/redpower/world/WorldGenVolcano.class
+SHA1-Digest: xdM4bEBJolNDvudIt06P+nhDAAo=
+
+Name: com/eloraam/redpower/machine/TileGrate$FluidCoord.class
+SHA1-Digest: aA51rFy7cQxgbpwsMl66rcCvul8=
+
+Name: com/eloraam/redpower/machine/TileSorter.class
+SHA1-Digest: Iiv+y4gR/F2xLFkoNd5AEstIqu0=
+
+Name: eloraam/control/control1.png
+SHA1-Digest: 2aOAG/81hrF6Jxgb15fpCbATlYk=
+
+Name: com/eloraam/redpower/machine/TilePipe.class
+SHA1-Digest: Eh79nvcKUFWgixa14zGp0b7g7qY=
+
+Name: com/eloraam/redpower/control/TileRAM.class
+SHA1-Digest: /rz5zS1gxaRnhT5rcpbbHpfKfdo=
+
+Name: eloraam/control/redforthxp.img
+SHA1-Digest: nSkjHjXeOlmxT3QkXsZ5SBtb10E=
+
+Name: eloraam/control/cpugui.png
+SHA1-Digest: WeVYInI2x7IW+DmPkIn0g08A1qI=
+
+Name: com/eloraam/redpower/machine/RenderPump.class
+SHA1-Digest: LzEKQ0ikxmwuKOfB1FO+rLmDhbg=
+
+Name: com/eloraam/redpower/machine/TileGrate$GratePathfinder.class
+SHA1-Digest: u+lbsfVXvIcCDIGPx0Z2068SCcI=
+
+Name: eloraam/machine/pump2.obj
+SHA1-Digest: o5WJZjXioSo/yzgFlcy8+N1a4kA=
+
+Name: com/eloraam/redpower/world/ItemPaintCan.class
+SHA1-Digest: GyKMKLcJAD6HI2kj0tVqhOUMsD8=
+
+Name: com/eloraam/redpower/world/BlockBrickMossifier.class
+SHA1-Digest: mN+Dnyqc7fluFhZ/ORqzP4tsSGA=
+
+Name: com/eloraam/redpower/machine/TileBlueAlloyFurnace$1.class
+SHA1-Digest: tBKtXR86Wjo/7VEjPOzM1obaoqw=
+
+Name: com/eloraam/redpower/machine/TileTransformer.class
+SHA1-Digest: TdkkKdEA3t8pBJzKeQdVgrZX6W4=
+
+Name: com/eloraam/redpower/world/ItemWoolCard.class
+SHA1-Digest: lyp2939TdW1NBCZ8TXiHNIi0LMU=
+
+Name: com/eloraam/redpower/machine/TileRetriever.class
+SHA1-Digest: 2jvvVje/1A7TVNGjF3uufVws6e0=
+
+Name: com/eloraam/redpower/machine/ContainerBlueAlloyFurnace.class
+SHA1-Digest: psW+71/3ZSwrB9rRfFBQ57TPD2Y=
+
+Name: com/eloraam/redpower/control/ContainerDisplay$RLECompressor.clas
+ s
+SHA1-Digest: MiH8gRKhkzHKRqhiolrIDyoZaX4=
+
+Name: com/eloraam/redpower/world/ItemCustomSeeds.class
+SHA1-Digest: 5rK9X/e0cbLaYCto9GLqD05JIKw=
+
+Name: com/eloraam/redpower/machine/RenderBatteryBox.class
+SHA1-Digest: tK+dTejW4fsgCZ4N2bi5VJfLnBE=
+
+Name: com/eloraam/redpower/world/ItemPaintBrush.class
+SHA1-Digest: SaouniRajJWn7JPKmE7aD5XJGJw=
+
+Name: com/eloraam/redpower/machine/TileRegulator.class
+SHA1-Digest: SA/8KjLf/YH9BsDmWpCsxw5eH/I=
+
+Name: com/eloraam/redpower/machine/TileRedstoneTube.class
+SHA1-Digest: /LO0kfUIfYC1gl6yqPy2q2TDRlQ=
+
+Name: com/eloraam/redpower/machine/MachineProxyClient$1.class
+SHA1-Digest: M57FWKrIyCKUjpG+RxgaNvfpwfM=
+
+Name: com/eloraam/redpower/control/ControlProxyClient.class
+SHA1-Digest: pO/AdC/mqM9ykky2IIJmac1X5f0=
+
+Name: com/eloraam/redpower/world/ItemSeedBag.class
+SHA1-Digest: KByyzgqQXj4NGxuGinO1UYGa7IA=
+
+Name: com/eloraam/redpower/machine/TileManager$1.class
+SHA1-Digest: zgy9qsV75101W+G6EatWt1DXtCg=
+
+Name: com/eloraam/redpower/world/BlockCustomFlower.class
+SHA1-Digest: m0N12WApVXZf5+fHrw11AvjzM/0=
+
+Name: com/eloraam/redpower/machine/RenderTransformer.class
+SHA1-Digest: 5TcNgdaGoj/z37bv8WNIuO7Suac=
+
+Name: com/eloraam/redpower/world/WorldProxyClient.class
+SHA1-Digest: 8H0XGbgxJYphHGw+bA346eYaXsI=
+
+Name: com/eloraam/redpower/machine/GuiFilter.class
+SHA1-Digest: KeSkebtz6koBJiI3tJjqSMKggTA=
+
+Name: com/eloraam/redpower/machine/MachineProxy.class
+SHA1-Digest: vCnRTnk391ySKU9vJXDHKg1AFg4=
+
+Name: com/eloraam/redpower/control/RenderCPU.class
+SHA1-Digest: gw+4x/WWSIQzlPBNuEHEgjLzM8A=
+
+Name: com/eloraam/redpower/control/ItemBackplane.class
+SHA1-Digest: 6tBOh4ZIcHVRf05H8Ud0/Vxc6Rg=
+
+Name: com/eloraam/redpower/machine/TileMachinePanel.class
+SHA1-Digest: Y1D8bABxK9CYLLsvoQwKlbNrqq0=
+
+Name: com/eloraam/redpower/machine/RenderSolarPanel.class
+SHA1-Digest: CJAStX1GKhr8Ifu/GNVvv87bacY=
+
+Name: com/eloraam/redpower/machine/RenderGrate.class
+SHA1-Digest: JIj2ANatFY4kRb6uijctTcc98no=
+
+Name: com/eloraam/redpower/machine/RenderMachine2.class
+SHA1-Digest: 00GUmuuHrAoKCjFsU/+xBb1rG84=
+
+Name: com/eloraam/redpower/world/ItemCustomPickaxe.class
+SHA1-Digest: N0n3hgt1sVp8wT2A2qy3Eq2EMIs=
+
+Name: com/eloraam/redpower/machine/TileTubeRenderer.class
+SHA1-Digest: fhmyIPCMd184GzZIOaZvCYzzBl0=
+
+Name: com/eloraam/redpower/machine/TileTransformer$2.class
+SHA1-Digest: gkq8xKDSRJLsGKtsfOOIlaWc7BI=
+
+Name: com/eloraam/redpower/machine/ContainerFilter.class
+SHA1-Digest: m/5ycPabfjecCIit8bAEOHEzLiU=
+
+Name: com/eloraam/redpower/machine/ContainerEject.class
+SHA1-Digest: LlrLaSX+kjasrjVXOvAVmuES43A=
+
+Name: com/eloraam/redpower/machine/GuiBlueAlloyFurnace.class
+SHA1-Digest: BN3GssVKs0no8e5fJGTOingjjTo=
+
+Name: com/eloraam/redpower/control/GuiCPU.class
+SHA1-Digest: 69Te7Rrr5HXlN4KLqLOzq1oLHUI=
+
+Name: com/eloraam/redpower/machine/RenderBufferChest.class
+SHA1-Digest: Dt4KwftzOfF0ukxsYV9nAQah9Mk=
+
+Name: com/eloraam/redpower/machine/RenderFrameMoving.class
+SHA1-Digest: Q0Vb0ZIg0jO7ALVb3x0ruoAkX2k=
+
+Name: com/eloraam/redpower/machine/TilePipe$1.class
+SHA1-Digest: jD7AEPCMOsL4NJXkb841j6wGQtQ=
+
+Name: com/eloraam/redpower/RedPowerWorld.class
+SHA1-Digest: tjro27UaVdPKr0IKd/KRpPD4RJ8=
+
+Name: eloraam/machine/vawt.obj
+SHA1-Digest: p2nKuEZrJfDBDVeHwKcjHw5i1Sc=
+
+Name: com/eloraam/redpower/machine/RenderBlueFurnace.class
+SHA1-Digest: wK+LBsPXVFTeNfChlNIiHSscGtI=
+
+Name: com/eloraam/redpower/machine/RenderTube.class
+SHA1-Digest: P8m5/0bRi5P2I3i1LtJrdoiOEVo=
+
+Name: com/eloraam/redpower/machine/GuiChargingBench.class
+SHA1-Digest: GRIGaAmylUCNERrcuBBRYi8ORoM=
+
+Name: eloraam/machine/buffer.png
+SHA1-Digest: HItkKf0q40BCHkjdolpFpnAnpUE=
+
+Name: com/eloraam/redpower/machine/RenderRedstoneTube.class
+SHA1-Digest: FkTrwOaRqF14wW2/UZnAk/vnFrw=
+
+Name: com/eloraam/redpower/control/GuiDisplay.class
+SHA1-Digest: 25N6n6YOn9Slhz1h8jySohmt39I=
+
+Name: eloraam/machine/charging.png
+SHA1-Digest: kKO2o2gd7pGWbPQd4qiQ2g1pXoI=
+
+Name: eloraam/machine/assembler.png
+SHA1-Digest: pAfouyA5rDW1nw/OKPoFToMroxs=
+
+Name: com/eloraam/redpower/machine/TileWindTurbine$1.class
+SHA1-Digest: HEZ9YdgLpLA3DsF7iVEBj29gI+k=
+
+Name: com/eloraam/redpower/machine/TileSortron.class
+SHA1-Digest: SGsIsp+9Ob1NuALMV6ggBMRfU2U=
+
+Name: com/eloraam/redpower/machine/TileEjectBase.class
+SHA1-Digest: uYnHPrHqqVVjJ43TprKRmoreYdc=
+
+Name: com/eloraam/redpower/world/ItemCustomShovel.class
+SHA1-Digest: L/k2RsP1mDNYwNjKMEB+hhxQX74=
+
+Name: com/eloraam/redpower/machine/TileTube$1.class
+SHA1-Digest: SZ77Edhgfe6yPZU2I/X4KzS55xg=
+
+Name: com/eloraam/redpower/machine/TileFrameRenderer.class
+SHA1-Digest: GmawBSWQOERDT5Cr89T1OV4eq5M=
+
+Name: com/eloraam/redpower/machine/ItemMachinePanel.class
+SHA1-Digest: 9T+dd0j9TSmKSBaoDrlL4erz9Lo=
+
+Name: com/eloraam/redpower/machine/TileAccel.class
+SHA1-Digest: EaLgoyFl9K88woDeYnkrn9smwNs=
+
+Name: eloraam/world/world1.png
+SHA1-Digest: 9Tvmnv5KXrWbjL9wEq73wexAMrI=
+
+Name: com/eloraam/redpower/machine/EntityPlayerFake.class
+SHA1-Digest: Pu0Uqbn6N/0ZWBVEQl3lLMTdrZo=
+
+Name: com/eloraam/redpower/machine/TileManager.class
+SHA1-Digest: WBqdUkhlFbJ1UIHoKMNS+JbqmpE=
+
+Name: com/eloraam/redpower/machine/ContainerRegulator.class
+SHA1-Digest: vVXpM9sVVlyCZJFbMNkLIbQnkUY=
+
+Name: com/eloraam/redpower/machine/TileWindTurbine.class
+SHA1-Digest: RY2VV9fHmafKXg1tTZxGbZYTGoc=
+
+Name: com/eloraam/redpower/machine/BlockFrame.class
+SHA1-Digest: zHYr0F+W3z2wQGdrpXepZFbiGPY=
+
+Name: eloraam/machine/windmill.obj
+SHA1-Digest: zYToRedljd6iIf43jQzNz6CNa/o=
+
+Name: com/eloraam/redpower/machine/TilePumpRenderer.class
+SHA1-Digest: IeA5dw/Utf+t2tQFCuE09LmyPwo=
+
+Name: com/eloraam/redpower/machine/ContainerDeploy.class
+SHA1-Digest: 5kwT752UI7b0dijWkv45+IykSvU=
+
+Name: eloraam/machine/windgui.png
+SHA1-Digest: GPR5YNAPUo3GTn6sYE6QHUfiweI=
+
+Name: com/eloraam/redpower/machine/RenderFrameTube.class
+SHA1-Digest: mcToZZ0EhudsTNchoEq6k5uCtSg=
+
+Name: com/eloraam/redpower/machine/TileFrameMoving.class
+SHA1-Digest: 4Ym0VMk4HzfSryQe1q05XdFlQZU=
+
+Name: com/eloraam/redpower/machine/GuiWindTurbine.class
+SHA1-Digest: QRrKGkK/xplrSDfmZA78YeJzszs=
+
+Name: com/eloraam/redpower/machine/TileWindTurbineRenderer.class
+SHA1-Digest: XVmiFiPUeUzSCSP+MyD+Dh8LD/M=
+
+Name: com/eloraam/redpower/RedPowerControl.class
+SHA1-Digest: pXeMp3bPOUBJ9G7BsrxUPJq66Fg=
+
+Name: com/eloraam/redpower/machine/TileRetriever$1.class
+SHA1-Digest: I0n18PgnLszm9Zbtr00FvXQQJMY=
+
+Name: com/eloraam/redpower/machine/TileAccel$1.class
+SHA1-Digest: mssHNZAbpFPTft/j8DL7gs1vcb0=
+
+Name: com/eloraam/redpower/world/EnchantmentVorpal.class
+SHA1-Digest: HLP3EJglufIVjK7lmgwMpVKbuRU=
+
+Name: eloraam/control/rpcboot.bin
+SHA1-Digest: CaYkVwBxn14AmWlNGJzQg08AH+o=
+
+Name: com/eloraam/redpower/world/BlockCobbleMossifier.class
+SHA1-Digest: Z5L24te9ZZPizw6U2/1Q2g4SWwM=
+
+Name: com/eloraam/redpower/machine/TileTube.class
+SHA1-Digest: d/mEwvCe0JwVwYbvOyrGBM+2kN8=
+
+Name: eloraam/machine/regulator.png
+SHA1-Digest: /LiY7fLOfxIQxDgV2AIjNTBA/Mo=
+
+Name: com/eloraam/redpower/machine/RenderMachine.class
+SHA1-Digest: nUDOZ++AQV15gsVi4tBauu2QCH0=
+
+Name: com/eloraam/redpower/machine/TileTranspose.class
+SHA1-Digest: zDE1cboZftQQI5wOgbpDegPkdEU=
+
+Name: eloraam/control/modem.obj
+SHA1-Digest: Tul5ooiNsSC45HZydSCDy9kvDlE=
+
+Name: com/eloraam/redpower/control/RenderDisplay.class
+SHA1-Digest: JuAVhphe3ifz5oykh0lWIIZri4Y=
+
+Name: com/eloraam/redpower/control/TileCPU.class
+SHA1-Digest: mngBH8fKmzww/wZGJrOM/CwJPOc=
+
+Name: eloraam/machine/transform.obj
+SHA1-Digest: boA8Z8D/1JQVRXwGaq2JUJcNvRY=
+
+Name: com/eloraam/redpower/world/WorldProxy.class
+SHA1-Digest: O8SX7jL7NnGvJcx86+ylTAph3eo=
+
+Name: com/eloraam/redpower/machine/TileBlueFurnace$1.class
+SHA1-Digest: GbPXCdwB0ZMJOHFcFNjVTvx2uWo=
+
+Name: com/eloraam/redpower/machine/TileDeploy.class
+SHA1-Digest: IZQYlXWXLeVrWYncTRyA/2xUhvA=
+
+Name: com/eloraam/redpower/world/ItemCustomHoe.class
+SHA1-Digest: P+fA2f1zeqvhs1/6AF4fG4ZORo0=
+
+Name: com/eloraam/redpower/machine/RenderMotor.class
+SHA1-Digest: kRanza6n420UH31qO2hC0gu2/LQ=
+
+Name: eloraam/machine/manager.png
+SHA1-Digest: H77tI0rfdHkzCzO1b5UWbyraoL8=
+
+Name: com/eloraam/redpower/control/RenderDiskDrive.class
+SHA1-Digest: 1ICyMAniUSjZzdpe4GqyrPOSbuA=
+
+Name: com/eloraam/redpower/machine/GuiEject.class
+SHA1-Digest: GzPDQ9rcG2q7OUpc7J4gcQOG7eM=
+
+Name: com/eloraam/redpower/machine/TileAccel$2.class
+SHA1-Digest: OIZC1U2wk15S3e21j7yEI2cLWEY=
+
+Name: com/eloraam/redpower/world/BlockStorage.class
+SHA1-Digest: JCfO8E7cVZokxUmWXpHnt8FPDkU=
+
+Name: eloraam/control/redforth.img
+SHA1-Digest: sQTyby0DUTELYYnluJJZzcTA5dg=
+
+Name: com/eloraam/redpower/world/BlockCustomStone.class
+SHA1-Digest: jYUvbmyb1auqph40ma/nndqwEKU=
+
+Name: com/eloraam/redpower/control/TileIOExpander.class
+SHA1-Digest: Z18wr819zGQT8K61ezjY08DywOg=
+
+Name: com/eloraam/redpower/machine/TilePump$PumpBuffer.class
+SHA1-Digest: CVhON3AE837H3C9Pe8PRZ8PLsh8=
+
+Name: com/eloraam/redpower/control/TileDiskDrive.class
+SHA1-Digest: R9r/d955pAOqt5fiO385ZIN/ZKA=
+
+Name: com/eloraam/redpower/control/BlockPeripheral.class
+SHA1-Digest: pYFJJs9FlI6l6fVXSYt3T5iSpPg=
+
+Name: com/eloraam/redpower/control/MicroPlacementRibbon.class
+SHA1-Digest: oWG6QOxEe2RTULS71gQzOOfEx6k=
+
+Name: eloraam/machine/assembler2.png
+SHA1-Digest: Nqa6EKs/rSB1EeAdXewh3OgjoFo=
+
+Name: com/eloraam/redpower/control/TileRibbon.class
+SHA1-Digest: 6wKOoHYqxppgMgxB8yb1RMHIAE8=
+
+Name: com/eloraam/redpower/machine/ItemRenderMachine.class
+SHA1-Digest: OX9NsV6k1GuL0mU0/mrFZ4OJdEE=
+
+Name: com/eloraam/redpower/machine/TileSolarPanel$1.class
+SHA1-Digest: yAUQMYsPi8M70h++wx9umrLPDG8=
+
+Name: eloraam/machine/btfurnace.png
+SHA1-Digest: FJVzQourkCB9ypmzh9ycBz1dCI0=
+
+Name: com/eloraam/redpower/machine/ContainerBufferChest.class
+SHA1-Digest: +LpyERWNu5xm6LvSSgFcCS04h+A=
+
+Name: com/eloraam/redpower/machine/GuiBufferChest.class
+SHA1-Digest: jzvOujxjw+N5abQ89DySqIasqHY=
+
+Name: com/eloraam/redpower/machine/TileBreaker.class
+SHA1-Digest: w18qzorJ0pYP9GkyUhyDpdJ+Dik=
+
+Name: com/eloraam/redpower/machine/TileRelay.class
+SHA1-Digest: bZRg0mVVMgp5VT0JA8JKwXZHKX8=
+
+Name: com/eloraam/redpower/machine/TileGrate.class
+SHA1-Digest: vgbgxr/AN24EFMMo1WVNbahJYqw=
+
+Name: com/eloraam/redpower/control/ContainerDisplay.class
+SHA1-Digest: eHiEwJ3JZ4VgpwCUK9gTCaTqf5A=
+
+Name: com/eloraam/redpower/machine/TileSorter$1.class
+SHA1-Digest: KIsbMoEmfi19oGFD8XYx+Z/BdoQ=
+
+Name: com/eloraam/redpower/world/GuiSeedBag.class
+SHA1-Digest: 4Q8saWXMIIrLbXHcWE2uWrJ2PiE=
+
+Name: com/eloraam/redpower/machine/GuiAssemble.class
+SHA1-Digest: PtVtuTGvcrps52WC5SENVCWPyDw=
+
+Name: com/eloraam/redpower/control/RenderRibbon.class
+SHA1-Digest: Bz3KXT3d0fNI/oUgZw1BNpWQISA=
+
+Name: com/eloraam/redpower/machine/TileBlueFurnace.class
+SHA1-Digest: s5SEL4J2BkK/cIOfiyggIARHvQQ=
+
+Name: com/eloraam/redpower/machine/TileEject.class
+SHA1-Digest: YNzBgrKJbI84wfLUzG4H4jWf25M=
+
+Name: com/eloraam/redpower/machine/ContainerBatteryBox.class
+SHA1-Digest: lQgTErD3inSmQOp4kN7mG+eoStc=
+
+Name: com/eloraam/redpower/machine/TileFilter.class
+SHA1-Digest: BzMTTgUVz7Yn0M8M4vlagWqtadY=
+
+Name: com/eloraam/redpower/machine/TilePump$1.class
+SHA1-Digest: /ta7IFxN2tl5SoTxYgdMMheiPAM=
+
+Name: com/eloraam/redpower/machine/GuiBatteryBox.class
+SHA1-Digest: hErTZo9l27nEcJDLnU4an6gyRz8=
+
+Name: com/eloraam/redpower/world/WorldGenCustomOre.class
+SHA1-Digest: 5kYqr01+4ETmfmu5Gu4Gnbk9Nn0=
+

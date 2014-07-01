@@ -1,0 +1,499 @@
+Manifest-Version: 1.0
+Created-By: 1.6.0_35 (Sun Microsystems Inc.)
+
+Name: com/eloraam/redpower/core/ItemExtended.class
+SHA1-Digest: lHN7WYtM/bxsNgT2SrJlwE3TsnU=
+
+Name: com/eloraam/redpower/core/BluePowerLib.class
+SHA1-Digest: wS9q0oeS91K2gi2/v59AKUrlnYQ=
+
+Name: com/eloraam/redpower/base/ItemHandsaw.class
+SHA1-Digest: Vt8BQDTd5WxAWiAxOQc9nN7XYUw=
+
+Name: com/eloraam/redpower/core/GuiWidget.class
+SHA1-Digest: Izvn1wZPO4a32LR+5TEFuUkPXYM=
+
+Name: com/eloraam/redpower/base/GuiBusId.class
+SHA1-Digest: BQ60viwg9iwyQQfJJTwjSJN6U5o=
+
+Name: com/eloraam/redpower/core/BlockCoverable.class
+SHA1-Digest: Rdy5vYUvya+sKQgghAeCeBZz3E8=
+
+Name: eloraam/base/items1.png
+SHA1-Digest: RWEiaHc8BGrO4NI2tHI8nwaSt1M=
+
+Name: com/eloraam/redpower/core/ItemTextured.class
+SHA1-Digest: U3shyzrJP3K22dIxI1JkXWJV4MU=
+
+Name: com/eloraam/redpower/base/ItemMicro.class
+SHA1-Digest: wXCFR8Oy4vISsE74yV+QJvucdRI=
+
+Name: com/eloraam/redpower/core/TagFile$1.class
+SHA1-Digest: nN+dvlHOIQFonkw7NCkovJhC8kk=
+
+Name: eloraam/core/redpower.lang
+SHA1-Digest: QZnAZS1oFtqn7+fwTCIHdOfo6H8=
+
+Name: com/eloraam/redpower/core/TileMultipart.class
+SHA1-Digest: 7h326Lrcz5kb15nGEqCsxGrd1N4=
+
+Name: com/eloraam/redpower/core/ITubeConnectable.class
+SHA1-Digest: IjLjg8woCjJq91Aee6i+zxLOiV8=
+
+Name: com/eloraam/redpower/core/CoverRenderer.class
+SHA1-Digest: Wjr3KULC7FoaHHDGkFuKQcFj8q0=
+
+Name: com/eloraam/redpower/base/ContainerBusId.class
+SHA1-Digest: 6wWTWw4QyJznaCgB1euU3xd/n7I=
+
+Name: com/eloraam/redpower/core/FluidClassVanilla.class
+SHA1-Digest: Lj0OvWAlRUfIC7dwmcVpA/Jpkko=
+
+Name: com/eloraam/redpower/base/ItemDrawplate.class
+SHA1-Digest: MsJ2utItHfvkBJUpawD47y/FuU4=
+
+Name: com/eloraam/redpower/base/ItemPlan.class
+SHA1-Digest: dVKemX3gs6VQ13bSnw8sVT+ei2k=
+
+Name: com/eloraam/redpower/base/SlotCraftRefill.class
+SHA1-Digest: 1vOJQWZCoobDimamChFhSI3xnl8=
+
+Name: com/eloraam/redpower/core/MachineLib$FilterMap.class
+SHA1-Digest: 5/d4gjeLwO979YYw0Nmn78NCBtc=
+
+Name: com/eloraam/redpower/core/CreativeExtraTabs.class
+SHA1-Digest: 8q+wMCdPMr6o1wHLKSS5Op1PMgk=
+
+Name: com/eloraam/redpower/core/TubeLib$OutRouteFinder.class
+SHA1-Digest: YlT7i52jUVi7J7QmjK/n6pQTYn4=
+
+Name: com/eloraam/redpower/base/ItemBag.class
+SHA1-Digest: aj7a4PXwv9KZKuR8/AW7DqDDIUE=
+
+Name: com/eloraam/redpower/core/ItemPartialCraft.class
+SHA1-Digest: 08gQn+4/rFqbEFm5l0CsPCCwjDk=
+
+Name: com/eloraam/redpower/core/IRotatable.class
+SHA1-Digest: 1EouMQS/TEk4vE4fzYBDz6uI0J4=
+
+Name: com/eloraam/redpower/core/TagFile$QueryEntry.class
+SHA1-Digest: SpvZXS4rzUyg8Fvxl6qQWoBMjAc=
+
+Name: com/eloraam/redpower/core/CoverRecipe.class
+SHA1-Digest: boK5fwLOb6X5FFd5m7QrJVjHFWA=
+
+Name: com/eloraam/redpower/core/BlockMultiblock.class
+SHA1-Digest: ehaegb60HZk0u6wWWdZ2+ks3Zs8=
+
+Name: com/eloraam/redpower/core/TubeFlow.class
+SHA1-Digest: ht9VpPs5VT+zPO0QuuuHU2QE7V0=
+
+Name: com/eloraam/redpower/core/RedbusLib.class
+SHA1-Digest: 24bjNOgNAatzlXlfkf4odY6shQQ=
+
+Name: com/eloraam/redpower/core/MultiLib.class
+SHA1-Digest: F7HMsLMwEkMrRgwWa2vMog+QUC8=
+
+Name: com/eloraam/redpower/base/SlotAlloyFurnace.class
+SHA1-Digest: adAwjeYqP+mgQklqFiQsrahCuyk=
+
+Name: com/eloraam/redpower/core/RenderModel$ModelReader.class
+SHA1-Digest: 3c4g2FnZf6nLVFcDxLJ5t0YOkGA=
+
+Name: com/eloraam/redpower/core/IFrameSupport.class
+SHA1-Digest: YAWcG6vD5kiEpWLKHE836VqJKHQ=
+
+Name: com/eloraam/redpower/core/TileMultiblock.class
+SHA1-Digest: JR7MxrbqHSliePnwW6TZVw+0j60=
+
+Name: com/eloraam/redpower/core/BlockMultipart.class
+SHA1-Digest: NyAI5y2a7HrA3PPmK3oLOrt1dpo=
+
+Name: com/eloraam/redpower/base/InventorySubCraft.class
+SHA1-Digest: 5DuL9tFNJSZ827Sul0neeEXE5CQ=
+
+Name: com/eloraam/redpower/core/IFrameLink.class
+SHA1-Digest: FkP8Z5E1UKpvmsaP1MSIC2eJbTc=
+
+Name: com/eloraam/redpower/core/IRedPowerConnectable.class
+SHA1-Digest: T7oEgWOF/Dn/SpfI/7EwUcMnSHo=
+
+Name: com/eloraam/redpower/core/CraftLib.class
+SHA1-Digest: s8Yu6obxRqU5x1BIbcT7J9C1Oag=
+
+Name: com/eloraam/redpower/core/IWiring.class
+SHA1-Digest: OlIiqTd/vLIEBkptjjObxG4+4+Y=
+
+Name: com/eloraam/redpower/core/TileExtended.class
+SHA1-Digest: Nwx+QqWHh7BlSgz92NDBRbPrr50=
+
+Name: eloraam/base/advbench.png
+SHA1-Digest: vGKCpoknwsXmkU4z1dxZ3yjBwIo=
+
+Name: com/eloraam/redpower/base/TileAlloyFurnace.class
+SHA1-Digest: 8Ah6sB4dh5esF7UMOKsGXyhFFpk=
+
+Name: com/eloraam/redpower/core/TexVertex.class
+SHA1-Digest: 97SoDwsld/nslR1W3plLH28XYKA=
+
+Name: com/eloraam/redpower/core/Packet211TileDesc.class
+SHA1-Digest: q6ZyspQHmBxXvpb6qE9CN5K0+TY=
+
+Name: com/eloraam/redpower/core/RenderHighlight.class
+SHA1-Digest: 0I8lNZ1x0Xsh/6+d8t7vB+RB1Sg=
+
+Name: com/eloraam/redpower/core/CoverLib.class
+SHA1-Digest: n5H7Z8C6SdD4QfKCXeq4oc6S4X0=
+
+Name: com/eloraam/redpower/core/TagFile.class
+SHA1-Digest: Dq2RmjL+WvKEuS8NobDI/x2fUS0=
+
+Name: mcmod.info
+SHA1-Digest: KldrHBqzMPjCVJ1CzUfJM35DSAw=
+
+Name: com/eloraam/redpower/base/BlockMicro.class
+SHA1-Digest: qgqKiJruLefRiEezS5tijfgkkB0=
+
+Name: com/eloraam/redpower/core/CreativeExtraTabs$3.class
+SHA1-Digest: +4fKpWqYWCjQhnVM/j0GjY/89xM=
+
+Name: com/eloraam/redpower/core/MachineLib$SubInventory.class
+SHA1-Digest: vmplQi7pXnhnbgbaXXJt6iofuYY=
+
+Name: com/eloraam/redpower/core/TubeItem.class
+SHA1-Digest: b/vJkNcL5jDYzDc6YqhuR7NBpIE=
+
+Name: com/eloraam/redpower/core/CoverLib$IMaterialHandler.class
+SHA1-Digest: x1yPC6mpLFuUNkN4AdhBJCCuzwE=
+
+Name: com/eloraam/redpower/core/PipeLib.class
+SHA1-Digest: b4ZvvnDfLsAZXfWrZTzfQxVSuJI=
+
+Name: com/eloraam/redpower/core/TubeLib$RequestRouteFinder.class
+SHA1-Digest: VsSuy9XAA2coij1EAYtMSognO9k=
+
+Name: com/eloraam/redpower/core/IHandleGuiEvent.class
+SHA1-Digest: 1I7tDHiqEFi8PUdj5TOnjCQ8k3s=
+
+Name: com/eloraam/redpower/base/TileAppliance.class
+SHA1-Digest: InhJF6it5qeG0GvH92n+u6IbIq0=
+
+Name: com/eloraam/redpower/core/RenderLib.class
+SHA1-Digest: 633M9j1lOFJ4GWALau0zaEhc9CA=
+
+Name: com/eloraam/redpower/core/Quat.class
+SHA1-Digest: /PkSn1zr7hUpt7N0hTu4KyHPlmg=
+
+Name: com/eloraam/redpower/base/ContainerAdvBench.class
+SHA1-Digest: zkF4uZk5Kma+/o/Ux0KKz7+LcrY=
+
+Name: com/eloraam/redpower/core/IPipeConnectable.class
+SHA1-Digest: RkUrgKEiyAwtE4S0TIKc0DGhR14=
+
+Name: eloraam/base/idgui.png
+SHA1-Digest: qdgfp1g9hZxk8amgFFOXDVYhEDs=
+
+Name: com/eloraam/redpower/core/FluidClassItem.class
+SHA1-Digest: dmIv6izfSz1vRhksqbfpqh5GLJA=
+
+Name: com/eloraam/redpower/base/RenderAdvBench.class
+SHA1-Digest: P324vwcdetCNV10DynE5rJLEiG0=
+
+Name: com/eloraam/redpower/core/IRedbusConnectable.class
+SHA1-Digest: a3I4HfPLLqdSFqKyYNPq24Hsv/Q=
+
+Name: com/eloraam/redpower/core/RenderContext.class
+SHA1-Digest: epuvGsDLvp8nxmRqORP4hKjwPnI=
+
+Name: com/eloraam/redpower/core/CoreProxyClient.class
+SHA1-Digest: YrCoRGkNzvaZeoeRs9Rd1vsyXSU=
+
+Name: com/eloraam/redpower/core/MathLib.class
+SHA1-Digest: AWoc8XX4G/ZdQsURN3yepDxo81w=
+
+Name: eloraam/core/default.cfg
+SHA1-Digest: SSIWX2kboG9dsrR9xmSAPS/hkN0=
+
+Name: com/eloraam/redpower/core/CreativeExtraTabs$2.class
+SHA1-Digest: LZnrV1bct93ascHQPkaADM03fL4=
+
+Name: com/eloraam/redpower/core/RenderModel.class
+SHA1-Digest: cvoX4WbiaOquhR1s0B9EGrgS7Xc=
+
+Name: com/eloraam/redpower/core/FractalLib$BlockRay.class
+SHA1-Digest: xtNnlYAuv8RDrBUqwfFWsVG/xQk=
+
+Name: com/eloraam/redpower/base/GuiAdvBench.class
+SHA1-Digest: +MwiCY7iAN6AopwZPSg4Iy4BlNU=
+
+Name: com/eloraam/redpower/core/FractalLib$BlockSnake.class
+SHA1-Digest: vuizgKd/JTBWHPw+9n3VRZGUMSA=
+
+Name: com/eloraam/redpower/core/RedbusLib$RedbusPathfinder.class
+SHA1-Digest: 4r3vJYEebmKEgWbxnG6Z0jvxaog=
+
+Name: com/eloraam/redpower/core/RenderLib$RenderListEntry.class
+SHA1-Digest: N/wNpWzdzdYpcPi4OuhM5DfwbSQ=
+
+Name: com/eloraam/redpower/core/IRedbusConnectable$Dummy.class
+SHA1-Digest: suurwCWPvcoteUEur5G1hJ8aNiM=
+
+Name: com/eloraam/redpower/core/IPaintable.class
+SHA1-Digest: rAH5Xx5rHXvEXPH4pRwIP0oqD9M=
+
+Name: com/eloraam/redpower/core/RenderCovers.class
+SHA1-Digest: HDgKpcoS2c+6ZbkQX0EwV936GeA=
+
+Name: com/eloraam/redpower/core/FrameLib$FrameSolver.class
+SHA1-Digest: dR9YDWizg7jntoVWJN/oiAoo7NM=
+
+Name: com/eloraam/redpower/core/CoreProxy.class
+SHA1-Digest: ZpqCVfkQ1jBE+8NauoaWOu8PG7U=
+
+Name: com/eloraam/redpower/core/FrameLib.class
+SHA1-Digest: rgP7JKQmd+XFZLcz+6oJK+fV4N8=
+
+Name: com/eloraam/redpower/core/IHandlePackets.class
+SHA1-Digest: QqHeiaYlwdkQb+dQ8wCa2ycsLvM=
+
+Name: com/eloraam/redpower/core/CoreProxyClient$RenderHandler.class
+SHA1-Digest: 7qlkwv8XyJy7luMsP0ie+iLWk1M=
+
+Name: com/eloraam/redpower/core/FractalLib.class
+SHA1-Digest: yjoEMTYz3Gy8oJdlWngzgoVP8CQ=
+
+Name: com/eloraam/redpower/RedPowerBase.class
+SHA1-Digest: U0Kx71szCtIj4BTNycD1w9V2b7A=
+
+Name: com/eloraam/redpower/core/IConnectable.class
+SHA1-Digest: HpOvUyurridlVzfYDQ02V4G0PKs=
+
+Name: com/eloraam/redpower/base/RenderAlloyFurnace.class
+SHA1-Digest: jAktuCRE6XTYDbqK2IuP8IKOloM=
+
+Name: com/eloraam/redpower/core/DiskLib.class
+SHA1-Digest: G0JI7oalhLoaPlC8jk8k381DuQc=
+
+Name: com/eloraam/redpower/core/TubeLib.class
+SHA1-Digest: YeE4eBdfDLF2CmzZvVRQgdSN48A=
+
+Name: com/eloraam/redpower/core/MachineLib.class
+SHA1-Digest: O3DYqX6hkn3nzAMvJtTXm/fm+fg=
+
+Name: com/eloraam/redpower/core/Packet212GuiEvent.class
+SHA1-Digest: hPFu67jGXfz5cL38rzxN8xPt6Bg=
+
+Name: com/eloraam/redpower/core/FluidClass.class
+SHA1-Digest: ydikN3zWzkfVR46LfBWFcnKG0Hw=
+
+Name: com/eloraam/redpower/core/RenderLib$RenderShiftedEntry.class
+SHA1-Digest: QVKEmApi2GaHwDdy1YSIbu10w/M=
+
+Name: com/eloraam/redpower/core/IBlockHardness.class
+SHA1-Digest: 7ozj0WB66YztZgHWasOKQ3YjTow=
+
+Name: com/eloraam/redpower/core/ITubeFlow.class
+SHA1-Digest: RMBDJ4G2Grxgs41vQRlqXMRCqv4=
+
+Name: com/eloraam/redpower/base/BaseProxyClient.class
+SHA1-Digest: n8lUH/pSZunfaoZ2Y6Z/Czi0HKo=
+
+Name: com/eloraam/redpower/base/BlockAppliance.class
+SHA1-Digest: k3BhNPRHYRKUs/3zK5w+XIZOQoQ=
+
+Name: com/eloraam/redpower/core/WorldCoord$1.class
+SHA1-Digest: HtdJgeWWEX2eQrgrfxQ/BM+kaEo=
+
+Name: com/eloraam/redpower/core/TubeLib$WorldRoute.class
+SHA1-Digest: HpXauMiItFyhRF1+MTc7+OELETQ=
+
+Name: com/eloraam/redpower/core/PowerLib.class
+SHA1-Digest: In0a8mtYcVVo0hT8QzMD6s4T48s=
+
+Name: com/eloraam/redpower/core/TextureAnimFX.class
+SHA1-Digest: q+7yCROeHA9Z6JtgGdWam/zOVRs=
+
+Name: com/eloraam/redpower/core/BluePowerEndpoint.class
+SHA1-Digest: JzmaRBdqzj7M1kH8JER2tw84lug=
+
+Name: com/eloraam/redpower/core/CoverLib$PlacementValidator.class
+SHA1-Digest: okrdv+PB6kHRrY9KlSaqEv93zNE=
+
+Name: com/eloraam/redpower/base/BaseProxy.class
+SHA1-Digest: kDNl+q29cwhGSjVo5xaF2/2oQcs=
+
+Name: com/eloraam/redpower/core/CoreEvents.class
+SHA1-Digest: xRxPYEQZ71rzpHfQHPiStRAs0+w=
+
+Name: com/eloraam/redpower/core/ItemParts.class
+SHA1-Digest: FQ5vXiIRmtNxvfCnAi385+BDMB8=
+
+Name: com/eloraam/redpower/core/RenderCustomBlock.class
+SHA1-Digest: /6f9NboT4CW95das6U5a4LqKOYE=
+
+Name: com/eloraam/redpower/core/OreStack.class
+SHA1-Digest: B61LdsBka9Au6Vls7KL2gey59P8=
+
+Name: com/eloraam/redpower/core/EnvironLib.class
+SHA1-Digest: hLKwJb9tj8wTy3mC9ZOxTCrBkyI=
+
+Name: com/eloraam/redpower/core/Matrix3.class
+SHA1-Digest: 3es4XHidckASvzlyI8Jtkwm3S18=
+
+Name: com/eloraam/redpower/core/CreativeExtraTabs$1.class
+SHA1-Digest: uwxJzlxr0xlOY978QdBbxu7DY0o=
+
+Name: com/eloraam/redpower/core/IBluePowerConnectable.class
+SHA1-Digest: ZFpl8RI24uEzv5Ds6K8aNfeCu6w=
+
+Name: com/eloraam/redpower/base/ContainerBag$SlotBag.class
+SHA1-Digest: OasA2reJwV5zCT44pZB0Nxqm2Sc=
+
+Name: com/eloraam/redpower/core/IChargeable.class
+SHA1-Digest: CaizsZcp7IiAWCeQ+CUNfBOVbDU=
+
+Name: com/eloraam/redpower/core/RedPowerLib.class
+SHA1-Digest: 9RP8bmbmSeI5ywlSfM4QjesJ1r8=
+
+Name: com/eloraam/redpower/core/CoreLib$1.class
+SHA1-Digest: LRlE28dlIyqsg0KS2jfrKqHjlvQ=
+
+Name: com/eloraam/redpower/core/BlockExtended.class
+SHA1-Digest: 58+XTx0HHUdWiSesTxdKGPIi0gI=
+
+Name: eloraam/base/base1.png
+SHA1-Digest: MNhZY5mYJBoWCNWK8nKZ2e29cLU=
+
+Name: com/eloraam/redpower/base/ContainerAdvBench$SlotPlan.class
+SHA1-Digest: JeUmwBKZEObVES9MhWHJrZiQ2W4=
+
+Name: com/eloraam/redpower/core/TubeFlow$TubeScheduleContext.class
+SHA1-Digest: Beg0FpZ8mjtdDcbI0kh6dmEGw8o=
+
+Name: com/eloraam/redpower/base/RecipeBag.class
+SHA1-Digest: Rj9i9nUW/ZzXf/fVXZ5tNwfnxUw=
+
+Name: com/eloraam/redpower/core/TileCovered.class
+SHA1-Digest: WfbIV9Gpx2cn9PQt3Jxi+gba8wI=
+
+Name: com/eloraam/redpower/core/PacketVLC.class
+SHA1-Digest: Mc3JEVOWs+jjGktcjc8S003payc=
+
+Name: com/eloraam/redpower/core/ReflectLib.class
+SHA1-Digest: LBO+dDs9M8kce2H0WVKMpHMcGQ4=
+
+Name: eloraam/base/rpbanner.png
+SHA1-Digest: /IYFbX8kTqquMdZs0Adie8QM/y4=
+
+Name: com/eloraam/redpower/core/Config.class
+SHA1-Digest: XVUbnoa3IoTXUVvgMO/LM3uKLNs=
+
+Name: com/eloraam/redpower/core/TagFile$Query$QueryIterator.class
+SHA1-Digest: NfxQnzqLYoGSIF5UeK0hndYuaZ0=
+
+Name: com/eloraam/redpower/core/TagFile$Query.class
+SHA1-Digest: xBTEk5Uk+dBWF6SZRVMPrhddcFM=
+
+Name: com/eloraam/redpower/core/Vector3.class
+SHA1-Digest: jLcLqa35KYbLb3/Dysare0VEFs4=
+
+Name: com/eloraam/redpower/core/ITubeRequest.class
+SHA1-Digest: yhF6SQV1llFnUbIVRtoBuN2V7/w=
+
+Name: com/eloraam/redpower/core/AchieveLib.class
+SHA1-Digest: ySiFthzQIiKHm0Xt0n9YRWdBwC4=
+
+Name: com/eloraam/redpower/core/TubeLib$InRouteFinder.class
+SHA1-Digest: RmozCKSXxRVxTRYrVL5AzMgpQPI=
+
+Name: com/eloraam/redpower/core/ICoverable.class
+SHA1-Digest: 1YOX8jeiCidiymErA0NTQ9HFsHk=
+
+Name: com/eloraam/redpower/base/ItemScrewdriver.class
+SHA1-Digest: oIGQTtOpu1jDuZrHY6uBBE9oIuo=
+
+Name: com/eloraam/redpower/base/ContainerAlloyFurnace.class
+SHA1-Digest: +8auCWe7Kn7MGsA/T1UNwbqTeoA=
+
+Name: com/eloraam/redpower/core/CoreLib.class
+SHA1-Digest: VLogKytfTajvJO5/Y+dyMyF0qU4=
+
+Name: com/eloraam/redpower/RedPowerCore.class
+SHA1-Digest: ifMrjqpj6IdOMlE1FzLV3FpKyKA=
+
+Name: com/eloraam/redpower/base/GuiBag.class
+SHA1-Digest: iymiCntFcKxQy/NGC7V/nVKPOPQ=
+
+Name: com/eloraam/redpower/base/ContainerAdvBench$InventorySubUpdate.c
+ lass
+SHA1-Digest: /mWvfCl9kw/ITQClBBifJqqy2yo=
+
+Name: com/eloraam/redpower/base/GuiAlloyFurnace.class
+SHA1-Digest: zyFXb4VCe0vYX0CRz0XfcmKv+RE=
+
+Name: com/eloraam/redpower/base/ItemDyeIndigo.class
+SHA1-Digest: USTq+aa3fpC5tEMgmIAXEvfwP88=
+
+Name: com/eloraam/redpower/core/TileCoverable.class
+SHA1-Digest: W5ur5NKj0FPWVSLP/mlE7pvTM5c=
+
+Name: com/eloraam/redpower/base/ContainerBag.class
+SHA1-Digest: fGhU/ycdoq7CcgRmaP1A3+SYc+s=
+
+Name: com/eloraam/redpower/core/TubeBuffer.class
+SHA1-Digest: QPhwzvlKs8/kJv++xOGrDHMH9gU=
+
+Name: com/eloraam/redpower/core/PipeLib$1.class
+SHA1-Digest: TDOONF9eF8LqKwP5V+pzV71A6BY=
+
+Name: com/eloraam/redpower/base/ContainerAdvBench$ContainerNull.class
+SHA1-Digest: xcauxT5iRMwQuySU5ETN0BaLD7Y=
+
+Name: com/eloraam/redpower/base/ItemBag$InventoryBag.class
+SHA1-Digest: mka+n9Ihbp2bE99jf8HrOr4COck=
+
+Name: com/eloraam/redpower/base/TileAdvBench.class
+SHA1-Digest: pqTHoSFABYazN/T/FO93HRn0j2k=
+
+Name: com/eloraam/redpower/core/IRedPowerWiring.class
+SHA1-Digest: X2k/jL7cNBsNJ2MJNddJo1Uyi74=
+
+Name: eloraam/base/afurnacegui.png
+SHA1-Digest: 9aT4Mt51rRnpNdD7lamcdcFDeeE=
+
+Name: com/eloraam/redpower/core/WirePathfinder.class
+SHA1-Digest: Ig4M9teNkxspenS3BKFULLuSLWY=
+
+Name: com/eloraam/redpower/core/IMultiblock.class
+SHA1-Digest: E7L6fQ0dijn1vA8Hcm9C/yn6AI0=
+
+Name: com/eloraam/redpower/core/IMicroPlacement.class
+SHA1-Digest: FT1p3ptlXVJjEtzaa4UasuCg3SE=
+
+Name: eloraam/base/baggui.png
+SHA1-Digest: 7yvnfziiUNSxz+HtdWqgVaI8g3U=
+
+Name: com/eloraam/redpower/core/BluePowerConductor.class
+SHA1-Digest: 4tnp2wdx3Az+SAbJJiQwrXeCtOA=
+
+Name: com/eloraam/redpower/core/WorldCoord$WCComparator.class
+SHA1-Digest: xmGt+xSRZBTAkw5I/kI0tPMpIyU=
+
+Name: com/eloraam/redpower/core/FluidBuffer.class
+SHA1-Digest: tsPgGwbA407wVcFubDdCbYMRvks=
+
+Name: com/eloraam/redpower/core/IMultipart.class
+SHA1-Digest: MMNw7otyktnDwT1gz1FAviIq+sk=
+
+Name: com/eloraam/redpower/core/MachineLib$FilterMap$1.class
+SHA1-Digest: o7wHs8QznDJ0tKVNnqUqOQRyVZ0=
+
+Name: com/eloraam/redpower/core/TubeLib$RouteFinder.class
+SHA1-Digest: q/01Hpr9cdaZPDA/k7ouM+Y8F1g=
+
+Name: com/eloraam/redpower/core/WorldCoord.class
+SHA1-Digest: 8IiCkigk9JBccEbKhxNQPsOwM7Y=
+
+Name: com/eloraam/redpower/core/GuiExtended.class
+SHA1-Digest: vaclN9DWfwlSp2B3Laf61eLsfkQ=
+
